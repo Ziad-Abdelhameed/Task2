@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+.team1,
+.team2,
+.team3,
+.team4 {
+  float: left;
+  width: 24.57%;
+}
+.team {
+  width: 70%;
+  margin: auto;
+  /* border: 2px solid red; */
+}
+.team img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  margin: 15px;
+  /* border-radius: ; */
+}
+/* 
+.team1 {
+  border: 2px solid white;
+}
+.team2 {
+  border: 2px solid white;
+}
+.team3 {
+  border: 2px solid white;
+}
+.team4 {
+  border: 2px solid white;
+} */
+
+.clearfix {
+  clear: both;
+}
+.dodgerblue {
+  outline: 4px solid dodgerblue;
+}
+.tomato {
+  outline: 4px solid tomato;
+}
+.white {
+  outline: 4px solid white;
+}
+.lawngreen {
+  outline: 4px solid lawngreen;
+}
+p {
+  color: white;
+}
+
+.done {
+  /* margin: 100px; */
+  width: 80%;
+  margin: auto;
+  /* border: 2px solid white; */
+}
+
+.done div {
+  float: left;
+  width: 33%;
+}
+
+.done img {
+  width: 150px;
+  margin: 8px;
+  border-left: 10px solid dodgerblue;
+}
+
+/* .done { */
+/* margin: 100px; */
+/* width: 60%; */
+/* margin: auto; */
+/* border: 2px solid white; */
+/* } */
+/* .done div {
+  width: 95%;
+  margin: auto;
+} */
+/* .done div img { */
+/* width: 200px; */
+/* float: left; */
+/* margin: 20px; */
+
+/* border-left: 10px solid dodgerblue; */
+/* border: 1px solid red; */
+/* padding: 5px; */
+/* } */
